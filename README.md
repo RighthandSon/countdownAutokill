@@ -21,6 +21,6 @@ Licensed under [GPLv3](/LICENSE.md)
 
 Credit to:
 - "lep"
-- "alezakos
+- "alezakos"
 
 For thinking it would be useful and giving help in development.
